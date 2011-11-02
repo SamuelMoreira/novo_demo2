@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b9d1d3d-a39f-413d-acbd-700864e2e481" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
     </list>
     <ignored path="novo_demo2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,7 +95,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="58" selection-start="135" selection-end="135" vertical-scroll-proportion="0.20833333">
+            <state line="5" column="37" selection-start="131" selection-end="131" vertical-scroll-proportion="0.20833333">
               <folding />
             </state>
           </provider>
@@ -610,7 +608,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="58" selection-start="135" selection-end="135" vertical-scroll-proportion="0.20833333">
+        <state line="5" column="37" selection-start="131" selection-end="131" vertical-scroll-proportion="0.20833333">
           <folding />
         </state>
       </provider>
